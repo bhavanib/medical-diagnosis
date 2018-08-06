@@ -1,5 +1,5 @@
 # medical-diagnosis
-Medical Diagnosis using Patient’s Notes
+Medical Diagnosis using Patient’s Electronic Health Records
 
 crawler.py - 
 scrape the mtsamples site and download data from relevant medical classes
